@@ -1,0 +1,7 @@
+/var/folders/2v/x0l8zv7s2_q08hfvc1dyc95w0000gn/T/rider-publish18311429843631625941/WEB-APPLICATION
+/var/folders/2v/x0l8zv7s2_q08hfvc1dyc95w0000gn/T/rider-publish18311429843631625941/appsettings.Development.json
+/var/folders/2v/x0l8zv7s2_q08hfvc1dyc95w0000gn/T/rider-publish18311429843631625941/appsettings.json
+/var/folders/2v/x0l8zv7s2_q08hfvc1dyc95w0000gn/T/rider-publish18311429843631625941/WEB-APPLICATION.dll
+/var/folders/2v/x0l8zv7s2_q08hfvc1dyc95w0000gn/T/rider-publish18311429843631625941/WEB-APPLICATION.deps.json
+/var/folders/2v/x0l8zv7s2_q08hfvc1dyc95w0000gn/T/rider-publish18311429843631625941/WEB-APPLICATION.runtimeconfig.json
+/var/folders/2v/x0l8zv7s2_q08hfvc1dyc95w0000gn/T/rider-publish18311429843631625941/WEB-APPLICATION.pdb
